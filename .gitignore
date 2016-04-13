@@ -1,0 +1,4 @@
+node_modules/**
+built/**
+tsd/typings/typings/**
+**/.DS_Store
